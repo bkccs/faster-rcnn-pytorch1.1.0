@@ -244,3 +244,4 @@ This project is equally contributed by [Jianwei Yang](https://github.com/jwyang)
         Booktitle = {Advances in Neural Information Processing Systems ({NIPS})},
         Year = {2015}
     }
+# faster-rcnn-pytorch1.1.0
